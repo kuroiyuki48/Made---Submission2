@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="detail">Detail</string>
+    <string name="trailer">Trailer</string>
+    <string name="name">Nama</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tvshow">Acara Tv</string>
+    <string name="date">Tanggal</string>
+    <string name="score">Nilai</string>
+    <string name="genre">Aliran</string>
+    <string name="overview">Sinopsis</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="change_language">Ubah Bahasa</string>
+
+    <string-array name="movie_name">
+        <item>Aquaman (2018)</item>
+        <item>Avengers: Infinity War (2018)</item>
+        <item>Bohemian Rhapsody (2018)</item>
+        <item>Bumblebee (2018)</item>
+        <item>How to Train Your Dragon: The Hidden World (2019)</item>
+        <item>Glass (2019)</item>
+        <item>Mary Poppins Returns (2018)</item>
+        <item>Mortal Engines (2018)</item>
+        <item>Robin Hood (2018)</item>
+        <item>Spider-Man: Into the Spider-Verse (2018)</item>
+    </string-array>
+
+    <string-array name="movie_genre">
+        <item>Aksi, Petualangan, Fantasi</item>
+        <item>Aksi, Petualangan, Fantasi</item>
+        <item>Drama, Musik</item>
+        <item>Aksi, Petualangan, Fiksi Ilmiah</item>
+        <item>Animasi, Keluarga, Petualangan</item>
+        <item>Thriller, Drama, Fiksi Ilmiah</item>
+        <item>Fantasi, Keluarga, Komedi</item>
+        <item>Petualangan, Fantasi</item>
+        <item>Petualangan, Aksi, Thriller</item>
+        <item>Aksi, Petualangan, Animasi, Fiksi Ilmiah, Komedi</item>
+    </string-array>
+
+    <string-array name="movie_release">
+        <item>21 Desember 2018</item>
+        <item>27 April 2018</item>
+        <item>2 November 2018</item>
+        <item>21 Desember 2018</item>
+        <item>22 Februari 2019</item>
+        <item>18 Januari 2019</item>
+        <item>19 Desember 2018</item>
+        <item>14 Desember 2018</item>
+        <item>21 November 2018</item>
+        <item>14 Desember 2018</item>
+    </string-array>
+
+    <string-array name="movie_score">
+        <item>68% dari 100%</item>
+        <item>83% dari 100%</item>
+        <item>81% dari 100%</item>
+        <item>65% dari 100%</item>
+        <item>76% dari 100%</item>
+        <item>65% dari 100%</item>
+        <item>66% dari 100%</item>
+        <item>60% dari 100%</item>
+        <item>58% dari 100%</item>
+        <item>84% dari 100%</item>
+    </string-array>
+
+    <string-array name="movie_overview">
+        <item>Setelah rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah
+            oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan samudra yang
+            tersisa orang dan kemudian dunia permukaan. Yang menghalanginya adalah Arthur Curry, setengah manusia Orm, saudara
+            setengah-Atlantis dan pewaris sejati takhta.</item>
+        <item>Sebagai Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar
+            untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim dari
+            dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Semua yang Avengers telah perjuangkan
+            mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon ambil
+            dunia musik oleh badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan.
+            Ketika gaya hidup Merkurius yang semakin liar mulai lepas kendali, Ratu segera menghadapi tantangan terbesarnya
+            Belum - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan tempat perlindungan di tempat barang rongsokan di kota pantai kecil California.
+            Charlie, di puncak usia 18 dan mencoba menemukan tempatnya di dunia, menemukan Bumblebee,
+            pertempuran-bekas luka dan rusak. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang tak tertandingi dan sukar ditangkap
+            Night Fury pergi. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, naga dan pengendara harus
+            membuat keputusan mustahil untuk menyelamatkan jenis mereka.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya
+            untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadirannya samar
+            Elijah Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi kedua pria.</item>
+        <item>Di London era Depresi, Jane dan Michael Banks yang sudah dewasa, bersama ketiga anak Michael, adalah
+            dikunjungi oleh Mary Poppins yang penuh teka-teki setelah kehilangan pribadi. Melalui keterampilan magisnya yang unik, dan dengan
+            atas bantuan temannya Jack, dia membantu keluarga menemukan kembali kegembiraan dan keajaiban yang hilang dalam hidup mereka.</item>
+        <item>Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap satu sama lain
+            perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy
+            memiliki pertemuan yang tak terduga dengan seorang wanita muda misterius dari tanah terlantar yang akan mengubah jalan hidupnya
+            selama-lamanya.</item>
+        <item>Seorang pejuang perang yang keras dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson
+            "Kingpin" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</item>
+    </string-array>
+
+    <string-array name="movie_image">
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bOGkgRGdhrBYJSLpXaxhXVstddV.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xcaSYLBhmDzJ6P14bcKe0KTh3QV.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/wtZj5nn6hVwgakPdg6y6gm3eFXU.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lFwykSz3Ykj1Q3JXJURnGUTNf1o.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/rL1ITQuX0lmSNPu52pRRHUyim5N.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cwiJQXezWz876K3jS57Sq56RYCZ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jnOuttTfG9KKpmOZtprC4pA1AlZ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/axjFiijtxdfK3CD9dMwrdgLwblD.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/uUiId6cG32JSRI6RyBQSvQtLjz2.jpg</item>
+    </string-array>
+
+    <string-array name="movie_photo">
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/5Kg76ldv7VxeX9YlcQXiowHgdX6.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/iteUvQKCW0EqNQrIVzZGJntYq9s.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg</item>
+    </string-array>
+
+    <string-array name="movie_trailer">
+        <item>https://youtu.be/WDkg3h8PCVU</item>
+        <item>https://youtu.be/sAOzrChqmd0</item>
+        <item>https://youtu.be/HlRd9Zy25zo</item>
+        <item>https://youtu.be/fAIX12F6958</item>
+        <item>https://youtu.be/qNGLuCijKZ0</item>
+        <item>https://youtu.be/95ghQs5AmNk</item>
+        <item>https://youtu.be/PzcaR1N0pTI</item>
+        <item>https://youtu.be/IRsFc2gguEg</item>
+        <item>https://youtu.be/tJfDBSWYqU8</item>
+        <item>https://youtu.be/ii3n7hYQOl4</item>
+    </string-array>
+
+    <string-array name="tvshow_name">
+        <item>Arrow (2012)</item>
+        <item>Doom Patrol (2019)</item>
+        <item>Fairy Tail (2009)</item>
+        <item>Gotham (2014)</item>
+        <item>Grey\'s Anatomy (2005)</item>
+        <item>Hanna (2019)</item>
+        <item>Naruto Shippūden (2007)</item>
+        <item>Riverdale (2017)"</item>
+        <item>Supergirl (2015)</item>
+        <item>The Simpsons (1989)</item>
+    </string-array>
+
+    <string-array name="tvshow_genre">
+        <item>Kejahatan, Drama, Misteri, Aksi, Petualangan</item>
+        <item>Aksi, Petualangan, Fiksi Ilmiah, Fantasi</item>
+        <item>Aksi, Petualangan, Animasi, Komedi, Fiksi Ilmiah, Fantasi</item>
+        <item>Drama, Fantasi, Kejahatan</item>
+        <item>Drama</item>
+        <item>Aksi, Petualangan, Drama</item>
+        <item>Fantasi, Keluarga, Komedi</item>
+        <item>Drama, Misteri</item>
+        <item>Petualangan, Aksi, Drama, Fiksi Ilmiah</item>
+        <item>Animasi, Komedi</item>
+    </string-array>
+
+    <string-array name="tvshow_release">
+        <item>10 Oktober 2012</item>
+        <item>15 Februari 2019</item>
+        <item>12 Oktober 2009</item>
+        <item>22 September 2014</item>
+        <item>27 Maret 2005</item>
+        <item>28 Maret 2019</item>
+        <item>15 Februari 2007</item>
+        <item>26 Januari 2017</item>
+        <item>26 Oktober 2015</item>
+        <item>17 Desember 1989</item>
+    </string-array>
+
+    <string-array name="tvshow_score">
+        <item>58% dari 100%</item>
+        <item>61% dari 100%</item>
+        <item>64% dari 100%</item>
+        <item>69% dari 100%</item>
+        <item>62% dari 100%</item>
+        <item>64% dari 100%</item>
+        <item>75% dari 100%</item>
+        <item>69% dari 100%</item>
+        <item>58% dari 100%</item>
+        <item>71% dari 100%</item>
+    </string-array>
+
+    <string-array name="tvshow_image">
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/dKxkwAJfGuznW8Hu0mhaDJtna0n.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sAzw6I1G9JUxm86KokIDdQeWtaq.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/m2lugAG39sO0yCcuxEAu4fY5u1o.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mKBP1OCgCG0jw8DwVYlnYqVILtc.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/y6JABtgWMVYPx84Rvy7tROU5aNH.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oUuyMvdBIZiJHEGtKYrIZO7hyd7.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/c14vjmndzL9tBdooGsMznMFrFLo.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/2IUpoKSP64r6rp2vBo0Fdk8a1UU.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/3x1lVyxtsLKsZyR2E3qRe1EAXG4.jpg</item>
+        <item>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1pP0gg0iNGX06wSs19EQOvzfZIF.jpg</item>
+    </string-array>
+
+    <string-array name="tvshow_overview">
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut.
+            Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga
+            meninggalkan mereka bekas luka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang membawa
+            mereka bersama-sama untuk menyelidiki fenomena paling aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan.</item>
+        <item>Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu,
+            seorang pria muda yang mudah sakit dengan segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia seorang
+            anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail.</item>
+        <item>Sebelum ada Batman, ada GOTHAM. \nSetiap orang tahu nama Komisaris Gordon. Dia adalah salah satu
+            musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang Gordon
+            cerita dan kebangkitannya dari detektif pemula menjadi Komisaris Polisi? Apa yang diperlukan untuk menavigasi beberapa lapisan
+            korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan apa
+            keadaan menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler,
+            Two-Face dan The Joker?</item>
+        <item>Mengikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Grey Sloan Memorial Seattle.</item>
+        <item>Drama yang menegangkan dan menjadi dewasa ini mengikuti perjalanan seorang gadis muda yang luar biasa ketika dia menghindarinya
+            pengejaran tanpa henti dari agen CIA off-book dan mencoba untuk menggali kebenaran di balik siapa dia. Berdasarkan 2011
+            Film Joe Wright.</item>
+        <item>Naruto Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Ceritanya berkisar pada yang lebih tua
+            dan sedikit lebih matang Uzumaki Naruto dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman
+            Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun Naruto akhirnya kembali ke desanya Konoha,
+            dan mulai menetapkan ambisinya untuk bekerja, meskipun itu tidak akan mudah, karena Dia telah mengumpulkan beberapa (lebih berbahaya)
+            musuh, seperti organisasi shinobi; Akatsuki.</item>
+        <item>Berada di masa sekarang, seri ini menawarkan pandangan berani dan subversif pada Archie, Betty, Veronica dan teman-teman mereka,
+            menjelajahi surreality kehidupan kota kecil, kegelapan dan keanehan menggelegak di bawah fasad Riverdale yang sehat.</item>
+        <item>Kara Zor-El, 24 tahun, yang dibawa oleh keluarga Danvers ketika dia berusia 13 tahun setelah dikirim
+            jauh dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Danvers mengajarinya untuk menjadi
+            hati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, membawanya dalam perjalanan
+            kepahlawanan.</item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari di Paris
+            Keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal,
+            serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga membuat nama
+            untuk dirinya sendiri dalam pandangan satirnya yang tak kenal takut terhadap politik, media, dan kehidupan Amerika secara umum.</item>
+    </string-array>
+
+    <string-array name="tvshow_photo">
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/58GKcwFV3lpVOGzybeMrrNOjHpz.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/eqgIOObafPJitt8JNh1LuO2fvqu.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/5nSSkcM3TgpllZ7yTyBOQEgAX36.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/zAYRe2bJxpWTVrwwmBc00VFkAf4.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/gskv297rlbyzLaTU1XZf8UBbxp0.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/vqBsgL9nd2v04ZvCqPzwtckDdFD.jpg</item>
+        <item>https://image.tmdb.org/t/p/w220_and_h330_face/yTZQkSsxUFJZJe67IenRM0AEklc.jpg</item>
+    </string-array>
+
+    <string-array name="tvshow_trailer">
+        <item>https://youtu.be/hTv13EjlLNg</item>
+        <item>https://youtu.be/6wtGnnLfTqA</item>
+        <item>https://youtu.be/29jsKEZN1ag</item>
+        <item>https://youtu.be/0d1zpt6k5OI</item>
+        <item>https://youtu.be/q1pcpgREQ5c</item>
+        <item>https://youtu.be/wp6myRLnhAs</item>
+        <item>https://youtu.be/1WLO0Owi5-A</item>
+        <item>https://youtu.be/9XmFTADupMc</item>
+        <item>https://youtu.be/Mh8MYFadTmQ</item>
+        <item>https://youtu.be/DX1iplQQJTo</item>
+    </string-array>
+</resources>
